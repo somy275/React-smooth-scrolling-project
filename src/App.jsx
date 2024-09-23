@@ -2,7 +2,7 @@
 import React from 'react'
 import Smooth1 from './components/Smooth1'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
-import Smooth2 from './Components/Smooth2'
+import Smooth2 from './components/Smooth2'
 import Smooth3 from './Components/Smooth3'
 const App = () => {
   const router = createBrowserRouter([
