@@ -1,8 +1,8 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
+import Grid from '../components/Grid';
 import {gsap} from 'gsap'
 import { useLenis } from 'lenis/react'
-import Grid from './Grid';
 const Smooth3 = () => {
   // eslint-disable-next-line no-unused-vars
   const lenis = useLenis(({ scroll }) => {
