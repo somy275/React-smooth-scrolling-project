@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
-import Smooth1 from './Components/Smooth1'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import Smooth1 from './Cgit initomponents/Smooth1'
 import Smooth2 from './Components/Smooth2'
 import Smooth3 from './Components/Smooth3'
 const App = () => {
